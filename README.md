@@ -15,6 +15,7 @@
 >  <a href="https://github.com/aditya-sahu" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 
  </div>
+ <br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=I+Love+Working+With%3A)](https://git.io/typing-svg)
 <div display="flex">
@@ -22,6 +23,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
+
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=Top+Skills%3A)](https://git.io/typing-svg)
 <!--
