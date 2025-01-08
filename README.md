@@ -89,7 +89,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sahu&layout=compact&theme=radical)
 
-<img src="https://raw.githubusercontent.com/aditya-sahu/aditya-sahu/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/aditya-sahu/aditya-sahu/blob/output/github-contribution-grid-snake-dark.svg">
 
 <!--
 **aditya-sahu/aditya-sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
