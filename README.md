@@ -32,11 +32,14 @@
 </div>
 
 <br />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=Top+Skills%3A"/>
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=000000&width=435&lines=Top+Skills%3A" />
 </picture>
-<div display="flex">
+
+<div style="display:flex; flex-wrap: wrap; gap: '10px';">
   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="LibreOffice"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/> 
@@ -77,9 +80,13 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </div>
 
-### :fire: My Stats :
+
+### :fire: My Stats 
 <img src="https://komarev.com/ghpvc/?username=aditya-sahu&style=flat-square&color=blue" alt=""/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditya-sahu&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sahu&layout=compact&theme=radical)
+
 
 <!--
 **aditya-sahu/aditya-sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
