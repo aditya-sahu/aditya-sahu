@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > hiya, I'm Addy! ✨
 >
-> I design and develop microservices using high-quality and secure code 💻 to help companies quickly ⏩ deliver and scale ⏫ products to improve overall users' experience (🙂🧘 is how the customers feel after using my products).
+> I design and develop microservices in high-quality, secure code 💻 to help companies quickly ⏩ deliver and scale ⏫ products to improve overall users' experience (😄🧘 is how the customers feel after using my products).
 > I specialize in problem-solving 💡, scripting and automation and am accustomed to DevOps side tactics, techniques and frameworks. But when I'm not doing all of that, you can find me reading system design 📚, grinding leetcode 🔥, or at dev conferences/meet-ups.
 > 
 > If you enjoy reading about my work, please reach out and connect! If you're on the East Coast, we can chat over coffee ☕♨️.
