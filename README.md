@@ -22,8 +22,8 @@
  <br />
 <picture>
   
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Top+Languages%3A"/>
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=3000&pause=1000&color=000000&width=435&lines=Top+Languages%3A" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=Top+Languages%3A"/>
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=000000&width=435&lines=Top+Languages%3A" />
   </picture>
 <div display="flex">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/> 
