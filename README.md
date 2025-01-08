@@ -8,9 +8,9 @@
 > 
 > If you enjoy reading about my work, please reach out and connect! If you're on the East Coast, we can chat over coffee ☕♨️.
 > <div display="flex">
->  <a href="https://adityasahu.com/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/> > </a>
->  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
->  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+>  <a href="https://adityasahu.com/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
+>  <a href="https://www.linkedin.com/in/adityasahu1511/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  </a>
+>  <a href="https://leetcode.com/u/adithebest15/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/> </a>
 > </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=I+Love+Working+With%3A)](https://git.io/typing-svg)
