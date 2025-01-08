@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
 > Namaste, I'm Addy! ✨
@@ -7,16 +7,23 @@
 > I specialize in problem-solving 💡, scripting and automation and am accustomed to DevOps side tactics, techniques and frameworks. But when I'm not doing all of that, you can find me reading system design 📚, grinding leetcode 🔥, or at dev conferences/meet-ups.
 > 
 > If you enjoy reading about my work, please reach out and connect! If you're on the East Coast, we can chat over coffee ☕♨️.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=I+Love+Working+With%3A)](https://git.io/typing-svg)
 <div display="flex">
-  <img src="https://img.shields.io/badge/nodejs%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB" alt="Nodejs"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <a href="https://adityasahu.com/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/> </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+\
+\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=I+Love+Working+With%3A)](https://git.io/typing-svg)
+<div display="flex">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
+\
+\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=Top+Skills%3A)](https://git.io/typing-svg)
 <!--
 **aditya-sahu/aditya-sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
